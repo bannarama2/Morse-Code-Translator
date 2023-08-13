@@ -36,6 +36,8 @@ Feel free to experiment with different words, phrases, and punctuation to see th
 """
 
 """
+This is the Fun Game. Translate the below Morse Code back into words.
+
 -.
 .
 ...-
